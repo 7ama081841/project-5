@@ -1,0 +1,58 @@
+            /* start default color */
+.option-box .gear-check , 
+.active , 
+.btn-outline-success:hover ,
+.nav-item.dropdown a:hover ,
+.btn-danger ,
+.btn-danger:hover ,
+.btn-danger:not(:disabled):not(.disabled):active,
+.btn-danger:not(:disabled):not(.disabled).active,
+.show > .btn-danger.dropdown-toggle {
+    background-color: blue ;
+}
+
+.to-top {
+    background-color: rgba(0, 0, 255 , 0.7) ;
+}
+
+.option-box .gear-check , 
+.btn-outline-success:hover ,
+.nav-item.dropdown a:hover , 
+.btn-danger:not(:disabled):not(.disabled):active, 
+.btn-danger:not(:disabled):not(.disabled).active,
+.show > .btn-danger.dropdown-toggle {
+    color: #fff;
+}
+
+.btn-outline-success ,
+.btn-outline-success:hover ,
+.btn-danger:hover ,
+.btn-danger ,
+.option-box .color-option ,
+.btn-danger:not(:disabled):not(.disabled):active, 
+.btn-danger:not(:disabled):not(.disabled).active,
+.show > .btn-danger.dropdown-toggle {
+    border-color:  blue ;
+}
+
+.navbar-brand span ,
+.btn-outline-success ,
+.about h1 span ,
+.feat .fa ,
+.price-box h3 ,
+.footer h3 ,
+.footer .COPYRIGHT span {
+    color:  blue;
+}
+
+
+.btn-danger:focus, .btn-danger.focus ,
+.btn-danger:not(:disabled):not(.disabled):active, 
+.btn-danger:not(:disabled):not(.disabled).active,
+.show > .btn-danger.dropdown-toggle ,
+.btn-danger:not(:disabled):not(.disabled):active:focus, .btn-danger:not(:disabled):not(.disabled).active:focus,
+.show > .btn-danger.dropdown-toggle:focus  {
+    box-shadow: 0 0 0 0.2rem rgba(0, 0, 255,0.5);
+}
+
+                        /* end default color */
