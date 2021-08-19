@@ -119,19 +119,19 @@ html {
 }
 
 .img-1 {
-    background-image: url(/images/01.jpg);
+    background-image: url(../images/01.jpg);
 }
 
 .img-2 {
-    background-image: url(/images/02.jpg);
+    background-image: url(../images/02.jpg);
 }
 
 .img-3 {
-    background-image: url(/images/03.jpg);
+    background-image: url(../images/03.jpg);
 }
 
 .img-4 {
-    background-image: url(/images/05.jpg);
+    background-image: url(../images/05.jpg);
 }
 
 .img-1 ,.img-2 , .img-3 , .img-4 {
@@ -274,7 +274,7 @@ html {
             /* end price table */
             /* start our team */
 .our-team {
-    background: url(/images/technology.jpg) no-repeat center fixed ;
+    background: url(../images/technology.jpg) no-repeat center fixed ;
     background-size:cover ;
 }
 
@@ -333,7 +333,7 @@ html {
             /* end subscribe */
             /* start stats */
 .stats {
-    background: url(/images/stats.jpg) no-repeat center center fixed ;
+    background: url(../images/stats.jpg) no-repeat center center fixed ;
     background-size: cover;
     min-height: 300px;
 }
@@ -383,7 +383,7 @@ html {
             /* end our skill */
             /* start contact us */
 .contact-us {
-    background: url(/images/contact.png) no-repeat center center fixed;
+    background: url(../images/contact.png) no-repeat center center fixed;
     background-size:cover ;
     min-height: 300px;
 }
