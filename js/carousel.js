@@ -31,7 +31,7 @@ colors.click( function() {
             // start loader
 $(document).ready(function(){
     
-    $('.loading').delay(0).fadeOut( function(){
+    $('.loading').delay(3000).fadeOut( function(){
     }, function(){
         $('body').css('overflow','auto')
         $('.loading').remove()
